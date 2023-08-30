@@ -6877,7 +6877,7 @@ fieldset:disabled .btn {
   pointer-events: auto !important;
 }
 .rounded {
-  border-radius: 0px !important;
+  border-radius: 0px ;
 }
 .rounded-0 {
   border-radius: 0 !important;
